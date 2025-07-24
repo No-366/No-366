@@ -8,7 +8,10 @@
 </a>
 -->
 <a href="#">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=No-366&hide_langs_below=1&theme=cobalt" />
+  
+ <a href="https://solved.ac/gnoow">
+  <img align="left" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gnoow" />
+</a>
 </a>
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gnoow)](https://solved.ac/gnoow)
 <!--
